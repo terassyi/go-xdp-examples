@@ -1,0 +1,7 @@
+**/*.o
+**/*_bpfel.go
+**/*_bpfeb.go
+packet_counter/packet_counter
+xdp_dump/xdp_dump
+basic_firewall/basic_firewall
+bpf_redirect_map/bpf_redirect_map
